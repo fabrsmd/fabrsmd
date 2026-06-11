@@ -7,7 +7,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/fabioroselmard)
 
 ---
-
 ## 📍 About Me
 
 - **Location:** Between Paris & Barcelona
@@ -16,7 +15,6 @@
 - **Passion:** Building real impact with data, making analytics accessible, exploring AI tooling
 
 ---
-
 ## 👥 Who I Am
 
 I'm a **data-driven professional** with **6+ years** building scalable analytics solutions and high-impact BI dashboards for big companies like Pernod Ricard and Sanofi. I specialize in:
@@ -27,37 +25,30 @@ I'm a **data-driven professional** with **6+ years** building scalable analytics
 - 👥 **Team Leadership** — Mentoring, stakeholder management, 40+ cross-functional collaborations
 
 ---
-
 ## 🎯 What Drives Me
 
 I'm passionate about:
 
-- Creating **real impact with data** — from ETL to actionable insights
+- Creating **real impact with data** from ETL to actionable insights
 - Making **analytics accessible and collaborative** across organizations
 - Exploring **AI tooling** in data workflows and how it transforms analytics
 - Solving **complex data governance and quality challenges** at scale
 
 ---
-
 ## 🛠️ Technical Stack
 
-### Data & Databases
+- **Data & Databases**
 `SQL` • `Snowflake` • `SAP DataSphere` • `BigQuery` • `PostgreSQL`
-
-### BI & Analytics
+- **BI & Analytics**
 `Power BI` • `Qlik Sense` • `Tableau` • `Dataiku` • `DAX` • `Power Query`
-
-### Programming
+- **Programming**
 `Python` • `R` • `Advanced SQL` • `Stored Procedures` • `Query Optimization`
-
-### Cloud & Tools
+- **Cloud & Tools**
 `GitHub` • `Databricks` • `SAP S/4HANA` • `Dataiku` • `Alteryx`
-
-### Specialties
+- **Specialties**
 `ETL Pipelines` • `Data Modeling` • `Data Governance` • `Data Quality` • `A/B Testing` • `Agile/Scrum`
 
 ---
-
 ## 🌍 Languages
 
 | Language | Level |
@@ -67,7 +58,6 @@ I'm passionate about:
 | 🇪🇸 Spanish | Intermediate |
 
 ---
-
 ## 🚀 Let's Connect!
 
 I'm always interested in discussing:
