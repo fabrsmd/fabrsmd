@@ -10,24 +10,14 @@
 ## 📍 About Me
 
 - **Location:** Between Paris & Barcelona
-- **Status:** Senior Data & BI Developer & Data Scientist @ Pernod Ricard
+- **Status:** Senior Data and BI Developer, & Data Scientist @ Pernod Ricard
 - **Coding since:** 2018
 - **Passion:** Building real impact with data, making analytics accessible, exploring AI tooling
 
 ---
-## 👥 Who I Am
-
-I'm a **data-driven professional** with **6+ years** building scalable analytics solutions and high-impact BI dashboards for big companies like Pernod Ricard and Sanofi. I specialize in:
-
-- 🏗️ **Data Architecture** — SQL optimization, ETL pipelines, data warehousing
-- 📊 **BI & Visualization** — Power BI, Qlik Sense, dashboarding, self-serve analytics
-- 🤖 **Analytics & AI** — Python, statistical modeling, AI tooling integration (Claude, Copilot)
-- 👥 **Team Leadership** — Mentoring, stakeholder management, 40+ cross-functional collaborations
-
----
 ## 🎯 What Drives Me
 
-I'm passionate about:
+I'm a **data-driven professional** with **6+ years** building scalable analytics solutions and high-impact BI dashboards for big companies like Pernod Ricard and Sanofi. I'm passionate about:
 
 - Creating **real impact with data** from ETL to actionable insights
 - Making **analytics accessible and collaborative** across organizations
